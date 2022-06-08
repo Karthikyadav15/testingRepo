@@ -7,7 +7,9 @@ int i;
 
     for(i=3;i<=3000;i++);
     printf("%d",i);
-
+    printf(/n);
+    printf("hello");
     return 0;
 }
+
 
